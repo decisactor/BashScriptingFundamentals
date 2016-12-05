@@ -1,4 +1,5 @@
 #!/bin/bash
-# this is sme comment
+
+# this is some comment
 echo 'hello world'
-echo helo planet Mars
+echo hello planet Mars
